@@ -1,6 +1,6 @@
 MetaBuild is a distributed C++ package manager and project generator.
 
-**Note:** If you see broken links or other issues in this website, please report it via [JIRA](https://jira.corp.adobe.com/projects/METAB/issues) and notify us in the #metabuild slack channel. Alternatively, you can [send us a PR]({{ site.baseurl }}{% link _docs/faq/common_questions.md %}#how-can-i-contribute-to-metabuild-docs) for the fix.
+**Note:** If you see broken links or other issues in this website, please report it via [JIRA](https://jira.corp.adobe.com/projects/METAB/issues) and notify us in the #metabuild slack channel. Alternatively, you can [send us a PR]({{ site.baseurl }}{% link _docs/faq/common_questions.md %}#how-can-i-contribute-to-metabuild-docs) for the fix. alsdkjf lasjdf
 {: .notice--warning}
 
 
@@ -138,4 +138,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and weâ€™ll help you sort it out.
