@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+### Quick Links
+
+* [Getting Started] (getting_started.md)
+* [Installing Metabuild] (install_metabuild.md)
 
 ### Goals
 
