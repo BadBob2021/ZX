@@ -1,10 +1,28 @@
 ## Welcome to GitHub Pages
 
-This is something.
 
-### Something Else
+### Goals
 
-Else.
+1.  Written in portable Python 3.8+ code.
+
+2.  Python based syntax for the MetaBuild files. The builder commands are as close as possible to [Buck](http://buck.build/) from Facebook.
+
+3.  Compile all of the C++ code from source and allow sharing external C++ dependencies without duplication.
+
+4.  Unlike [Buck](http://buck.build/), `MetaBuild` doesn't actually drive the compilation of the C++ code:
+    - Generates native Xcode and Visual Studio projects.
+    - Generates CMake files for Android and Linux.
+
+5.  Supported external dependencies:
+    - download via HTTP/S
+    - download from Artifactory
+    - download code straight out of GIT
+
+6.  `MetaBuild` is fast:
+    - cache downloads from remote
+    - cache extracted dependencies
+    - allow shallow git clones of external repos with lots of history
+    - allow local linking of external dependencies for local development
 
 ### Markdown
 
