@@ -4,6 +4,8 @@ title: "Getting started with MetaBuild"
 toc: true
 ---
 
+[toc]
+
 ## Install MetaBuild
 
 Follow the [MetaBuild install guide]({{ site.baseurl }}{% link _docs/install_metabuild.md %}).
