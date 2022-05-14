@@ -4,7 +4,7 @@ title: "Getting started with MetaBuild"
 toc: true
 ---
 
-[toc]
+[TOC]
 
 ## Install MetaBuild
 
